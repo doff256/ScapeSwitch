@@ -1,0 +1,13 @@
+# Local builds and IDE state
+bin/
+obj/
+publish/
+dist/
+.vs/
+*.user
+*.suo
+*.pdb
+refs.rsp
+
+# Per-machine audio endpoint choices
+dockconfig.json
